@@ -1,27 +1,28 @@
-# FrontVotacaoBbb
+# Digital Innovation One - Live Coding ( Front end )
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
-## Development server
+Projeto de sistema de votação do BBB , guiado pelo tutor Rodrigo Tavares da Avanade
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este projeto foi dividido em 3 partes e nessa sessão final Integração do front-end com o back-end
 
-## Code scaffolding
+Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Angular de front-end;
+Spring Boot;
+Kafka;
+MongoDB;
+LINKS E MATERIAIS:
 
-## Build
+Download MongoDB Community Server: https://www.mongodb.com/try/download/...
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Spring Boot: https://spring.io/projects/spring-boot
 
-## Running unit tests
+Apache Kafka: https://kafka.apache.org/
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Angular: https://angular.io/
 
-## Running end-to-end tests
+Criando o sistema de VOTAÇÃO ONLINE do BBB 22 https://www.youtube.com/watch?v=pxHTbtKc2RM&t=5575s
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Live Coding - Recriando a Votação do BBB com Angular e Spring Boot (Parte 2) https://www.youtube.com/watch?v=QvCYkNvS8Qo&t=88s
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Live Coding - Finalizando o Projeto: Recriando a Votação do BBB com Angular e Spring Boot (Parte 3) https://www.youtube.com/watch?v=yl3fWcwqXb4&t=2s
